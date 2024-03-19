@@ -23,10 +23,10 @@ Filesystem in User-SpacE(FUSE)是Linux内核的用户态文件系统接口，方
 
 ### 项目导师
 
-王璞
+郑昱笙
 
-* github https://github.com/datenlord
-* email pwang7@foxmail.com
+* github ：https://github.com/yunwei37
+* email：yunwei356@gmail.com and team@eunomia.dev
 
 ### 难度
 
